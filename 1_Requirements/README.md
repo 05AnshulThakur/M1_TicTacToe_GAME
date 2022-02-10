@@ -38,8 +38,7 @@ Tic-tac-toe helps develop coordination, fine motor skills and visual skills.
 * If not, then it again checks if it is a draw situation.
 
 ## SWOT ANALYSIS
-
-
+![Screenshot (373)](https://user-images.githubusercontent.com/98889318/153358695-c9440b83-c47a-41cd-aa42-ddc63c3d3adc.png)
 
 # 4W&#39;s and 1&#39;H
 
