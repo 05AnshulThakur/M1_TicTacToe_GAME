@@ -20,9 +20,10 @@ It can help to improve a person's concentration as well as strategic thinking
 Tic-tac-toe helps develop coordination.
 
 
-## Defining Our System
+## Flow Chart
+![Screenshot (374)](https://user-images.githubusercontent.com/98889318/153367238-25872bd0-bd7a-4829-8196-7f8cb831627e.png)
 
-![Description](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/flow.png?raw=true)
+
 ### Explanation:
 * The game starts giving you three input options(1, 2, 3):
     * 1 means you are playing with'X'.
