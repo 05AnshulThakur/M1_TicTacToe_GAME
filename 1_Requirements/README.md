@@ -37,6 +37,29 @@ Tic-tac-toe helps develop coordination, fine motor skills and visual skills.
 * Then it checks if anyone has won yet.
 * If not, then it again checks if it is a draw situation.
 
+# Detail requirements
+## High Level Requirements: 
+| ID | Description | 
+| ----- | ----- | 
+| HR01 | User shall be able to choose 'X' to play |
+| HR02 | User shall be able to choose 'O' to play |
+| HR03 | User shall be able to Exit the game |
+| HR04 | User shall lose|
+| HR05 | User shall win|
+| HR06 | User shall end up in a Draw situation|
+##  Low level Requirements:
+ 
+| ID | Description | HLR ID |
+| ------ | --------- | ------ |
+| LR01 | If the user presses '1', he'll be play with 'X'. | HR01 |
+| LR02 | If the user is playing with 'X', he'll get the first turn. | HR01 |
+| LR03 | If the user presses '2', he'll be play with 'O'. | HR02 |
+| LR04 | If the user is playing with 'O', he'll get the second turn. | HR02 |
+| LR05 | If the user presses '3', it'll exit the game. | HR03 |
+| LR06 | If the computer gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose. | HR04 |
+| LR07 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | HR05 |
+| LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR06 |
+
 ## SWOT ANALYSIS
 ![Screenshot (373)](https://user-images.githubusercontent.com/98889318/153358695-c9440b83-c47a-41cd-aa42-ddc63c3d3adc.png)
 
@@ -61,26 +84,5 @@ Tic-tac-toe helps develop coordination, fine motor skills and visual skills.
 ## How:
 * It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe, this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex, the principle is the same: Move swiftly when the time comes, go for an advantageous position.
 
-# Detail requirements
-## High Level Requirements: 
-| ID | Description | 
-| ----- | ----- | 
-| HR01 | User shall be able to choose 'X' to play |
-| HR02 | User shall be able to choose 'O' to play |
-| HR03 | User shall be able to Exit the game |
-| HR04 | User shall lose|
-| HR05 | User shall win|
-| HR06 | User shall end up in a Draw situation|
-##  Low level Requirements:
- 
-| ID | Description | HLR ID |
-| ------ | --------- | ------ |
-| LR01 | If the user presses '1', he'll be play with 'X'. | HR01 |
-| LR02 | If the user is playing with 'X', he'll get the first turn. | HR01 |
-| LR03 | If the user presses '2', he'll be play with 'O'. | HR02 |
-| LR04 | If the user is playing with 'O', he'll get the second turn. | HR02 |
-| LR05 | If the user presses '3', it'll exit the game. | HR03 |
-| LR06 | If the computer gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose. | HR04 |
-| LR07 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | HR05 |
-| LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR06 |
+
 
