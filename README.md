@@ -5,12 +5,7 @@
    <img  src="https://www.code-inspector.com/project/27776/score/svg" />
    <img src="https://www.code-inspector.com/project/27776/status/svg" />
 
-</a>
-
-
-
-
-
+   
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -20,12 +15,6 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
    
    
-
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
 
 
 ## Learning Resources
