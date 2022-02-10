@@ -9,29 +9,17 @@ It is often used as a pedagogical tool for teaching the concepts of good sportsm
 The game can be generalized to an m,n,k-game in which two players alternate placing stones of their own color on an m×n board, with the goal of getting k of their own color in a row. Tic-tac-toe is the (3,3,3)-game.Harary's generalized tic-tac-toe is an even broader generalization of tic-tac-toe. It can also be generalized as a nd game. Tic-tac-toe is the game where n equals 3 and d equals 2.It can be generalised even further by playing on an arbitrary incidence structure, where rows are lines and cells are points.
 
 ## Benefits
-Tic-tac-toe Game offers a few benefits. Here are just a few of them:
+Tic-tac-toe Game offers following benefits:
 
 ### Good Sportsmanship
 Like any game, tic tac toe also teaches a person to accept the defeat as well as ackowledge the win.
 
-### Prepares for more complex games
-It prepares a person for more complex games because they have to think of multiple things at one time.
+### Concentration
+It can help to improve a person's concentration as well as strategic thinking
 
 ### Developement of Coordination
 Tic-tac-toe helps develop coordination, fine motor skills and visual skills.
 
-### Mannerism
-It helps one to learn how to follow rules and take turns.
-
-### Concentration
-It can help to improve a person's concentration as well as strategic thinking
-
-## Cost and Features with Time 
-| Time | Feature | Cost |
-| ----- | ----- | ----- |
-| 1558| Started as a pen and paper game in Roman Emire, earlier it was called tic tac.   | Free (Pen and Paper) |
-| 1952 |In 1952, OXO (or Noughts and Crosses), developed by British computer scientist Sandy Douglas for the EDSAC computer at the University of Cambridge, became one of the first known video games.| $5 |
-| 2000-2021 | After Digitalisation, this game is almost free for everyone on multiple mediums.| Cost-effective |
 
 ## Defining Our System
 
