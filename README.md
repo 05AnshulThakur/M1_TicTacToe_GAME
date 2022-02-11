@@ -1,6 +1,9 @@
 # M1_TicTacToe_GAME 
-![Codacy Badge](https://api.codiga.io/project/31029/score/svg)
-![Codacy Badge](https://api.codiga.io/project/31029/status/svg)
+Codiga           | Codacy
+-------------------| -----------------------------------------
+ ![Codacy Badge](https://api.codiga.io/project/31029/score/svg)   ![Codacy Badge](https://api.codiga.io/project/31029/status/svg)   |  ![Codacy Badge](https://app.codacy.com/project/badge/Grade/144752dd453f4bed97bfbd02eedfff72)
+
+
 ![tic-tac-toe](https://user-images.githubusercontent.com/98889318/153477045-0dbe0d30-8e97-421a-ba84-f954b66b5cc5.png)
 
    
