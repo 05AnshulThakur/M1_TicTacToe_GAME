@@ -6,6 +6,10 @@ Codiga           | Codacy
 
 ![tic-tac-toe](https://user-images.githubusercontent.com/98889318/153477045-0dbe0d30-8e97-421a-ba84-f954b66b5cc5.png)
 
+## Introduction
+TictacToe is a well known game which can be played for entertainment or in leisure time. It is a good time pass for children as well as adults. It also helps 
+in improving mental abilities of a person.
+
    
 ## Folder Structure
 Folder             | Description
