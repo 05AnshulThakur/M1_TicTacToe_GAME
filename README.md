@@ -22,5 +22,5 @@ Folder             | Description
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 ## References
-1.https://en.wikipedia.org/wiki/Tic-tac-toe
-2.GitHub
+1. https://en.wikipedia.org/wiki/Tic-tac-toe
+2. GitHub
